@@ -1,6 +1,4 @@
-# awesome-chinese-AI-Startups
-
- - 人工智能创业公司汇总
+# awesome-chinese-backend-AI-Startups
 
 ## 国内公司
 
